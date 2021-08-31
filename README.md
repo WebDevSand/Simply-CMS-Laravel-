@@ -10,7 +10,7 @@ Basic boilerplate content management system for starters, supports Laravel 8.0.
 * [User Guide](#item4)
 * [Screenshots](#item5)
 
------
+-----       
 <a name="item1"></a>
 ## Features:
 * Admin Panel
